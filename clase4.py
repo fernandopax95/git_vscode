@@ -72,6 +72,7 @@ while not salir:
 
 print ("Gracias por utilizar el programa")
 
+print("Bye")
 
 cursor.close()
 conexion.close()
